@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{36E7714C-C902-4DEC-8F68-A56C4A938F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asm", "Asm\Asm.csproj", "{667FFF6A-FCCA-4E9D-ABBD-A9E5ADDC1FC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36E7714C-C902-4DEC-8F68-A56C4A938F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36E7714C-C902-4DEC-8F68-A56C4A938F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36E7714C-C902-4DEC-8F68-A56C4A938F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36E7714C-C902-4DEC-8F68-A56C4A938F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667FFF6A-FCCA-4E9D-ABBD-A9E5ADDC1FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667FFF6A-FCCA-4E9D-ABBD-A9E5ADDC1FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667FFF6A-FCCA-4E9D-ABBD-A9E5ADDC1FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667FFF6A-FCCA-4E9D-ABBD-A9E5ADDC1FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06347032-FCE8-4BF8-B769-592A1E77E374}
+	EndGlobalSection
+EndGlobal
